@@ -8,7 +8,7 @@ function App() {
         <h1>
           <code>Moi Antti!</code>
         </h1>
-        <p>Rakastan sua</p>
+        <p>Rakastan sua!</p>
       </header>
     </div>
   );
